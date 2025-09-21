@@ -3,7 +3,7 @@ import project2 from "../assets/projects/dec.png";
 import project3 from "../assets/projects/chatt.jpg";
 import project4 from "../assets/projects/for.png";
 import project5 from "../assets/projects/bite.png";
-import project6 from "../assets/projects/carr.png";
+import project6 from "../assets/projects/carr.PNG";
 import project7 from "../assets/projects/trav.jpg";
 export const HERO_CONTENT = `Hi, I’m Tesnim Khabacha — a second-year software engineering student passionate about DevOps, Artificial Intelligence, and Web Development. I love creating modern, user-friendly applications and exploring cloud solutions. My ambition is to keep growing as an engineer and contribute to impactful projects that balance scalability, efficiency, and creativity.`;
 
